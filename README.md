@@ -6,7 +6,8 @@ Paste, type, or open a text or markdown file into the left textbox and out comes
 
 You can copy from the right box to paste into whatever alternate format you wish, or use the SaveAs feature to save as a file.
 
-version 1.0
+## Version
+version 1.0 
 
 ## Third Party Depencency and Licensing: MarkdownSharp
 This project uses [Markdown Sharp](https://github.com/StackExchange/MarkdownSharp) which is licensed under the MIT license:
