@@ -2,9 +2,9 @@
 
 This is a minimal GUI Wrapper around [Markdown Sharp](https://github.com/StackExchange/MarkdownSharp) which is designed to allow quick paste/copy conversion and/or typing in raw markdown and getting the HTML equiv. out the other side.
 
-Paste, type, or open file (coming soon) a text or markdown file into the left textbox and out comes HTML in the right.
+Paste, type, or open a text or markdown file into the left textbox and out comes HTML in the right.
 
-You can copy from the right box to paste into whatever alternate format you wish.
+You can copy from the right box to paste into whatever alternate format you wish, or use the SaveAs feature to save as a file.
 
 ## Third Party Depencency and Licensing: MarkdownSharp
 This project uses [Markdown Sharp](https://github.com/StackExchange/MarkdownSharp) which is licensed under the MIT license:
